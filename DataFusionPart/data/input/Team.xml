@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<players xsi:noNamespaceSchemaLocation="file:///C:/Users/I501440/Desktop/Uni/Web%20Data%20Integration/Schema%20Mapping/target_schemav2.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<player>
+		<Player_id>Team_1000</Player_id>
+		<Team>
+			<Club_name>KRC Genk</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Beerschot AC</Club_name>
+		</Team>
+		<Team>
+			<Club_name>SV Zulte-Waregem</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Sporting Lokeren</Club_name>
+		</Team>
+		<Team>
+			<Club_name>KSV Cercle Brugge</Club_name>
+		</Team>
+		<Team>
+			<Club_name>RSC Anderlecht</Club_name>
+		</Team>
+		<Team>
+			<Club_name>KAA Gent</Club_name>
+		</Team>
+		<Team>
+			<Club_name>RAEC Mons</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FCV Dender EH</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Standard de Liège</Club_name>
+		</Team>
+		<Team>
+			<Club_name>KV Mechelen</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Club Brugge KV</Club_name>
+		</Team>
+		<Team>
+			<Club_name>KSV Roeselare</Club_name>
+		</Team>
+		<Team>
+			<Club_name>KV Kortrijk</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Tubize</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Royal Excel Mouscron</Club_name>
+		</Team>
+		<Team>
+			<Club_name>KVC Westerlo</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Sporting Charleroi</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Sint-Truidense VV</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Lierse SK</Club_name>
+		</Team>
+		<Team>
+			<Club_name>KAS Eupen</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Oud-Heverlee Leuven</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Waasland-Beveren</Club_name>
+		</Team>
+		<Team>
+			<Club_name>KV Oostende</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Royal Excel Mouscron</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Manchester United</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Newcastle United</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Arsenal</Club_name>
+		</Team>
+		<Team>
+			<Club_name>West Bromwich Albion</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Sunderland</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Liverpool</Club_name>
+		</Team>
+		<Team>
+			<Club_name>West Ham United</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Wigan Athletic</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Aston Villa</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Manchester City</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Everton</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Blackburn Rovers</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Middlesbrough</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Tottenham Hotspur</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Bolton Wanderers</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Stoke City</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Hull City</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Fulham</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Chelsea</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Portsmouth</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Birmingham City</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Wolverhampton Wanderers</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Burnley</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Blackpool</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Swansea City</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Queens Park Rangers</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Norwich City</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Southampton</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Reading</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Crystal Palace</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Cardiff City</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Leicester City</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Bournemouth</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Watford</Club_name>
+		</Team>
+		<Team>
+			<Club_name>AJ Auxerre</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Nantes</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Girondins de Bordeaux</Club_name>
+		</Team>
+		<Team>
+			<Club_name>SM Caen</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Le Havre AC</Club_name>
+		</Team>
+		<Team>
+			<Club_name>OGC Nice</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Le Mans FC</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Lorient</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Olympique Lyonnais</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Toulouse FC</Club_name>
+		</Team>
+		<Team>
+			<Club_name>AS Monaco</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Paris Saint-Germain</Club_name>
+		</Team>
+		<Team>
+			<Club_name>AS Nancy-Lorraine</Club_name>
+		</Team>
+		<Team>
+			<Club_name>LOSC Lille</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Stade Rennais FC</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Olympique de Marseille</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Sochaux-Montbéliard</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Grenoble Foot 38</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Valenciennes FC</Club_name>
+		</Team>
+		<Team>
+			<Club_name>AS Saint-Étienne</Club_name>
+		</Team>
+		<Team>
+			<Club_name>RC Lens</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Montpellier Hérault SC</Club_name>
+		</Team>
+		<Team>
+			<Club_name>US Boulogne Cote D'Opale</Club_name>
+		</Team>
+		<Team>
+			<Club_name>AC Arles-Avignon</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Stade Brestois 29</Club_name>
+		</Team>
+		<Team>
+			<Club_name>AC Ajaccio</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Évian Thonon Gaillard FC</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Dijon FCO</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Stade de Reims</Club_name>
+		</Team>
+		<Team>
+			<Club_name>SC Bastia</Club_name>
+		</Team>
+		<Team>
+			<Club_name>ES Troyes AC</Club_name>
+		</Team>
+		<Team>
+			<Club_name>En Avant de Guingamp</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Metz</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Angers SCO</Club_name>
+		</Team>
+		<Team>
+			<Club_name>GFC Ajaccio</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Bayern Munich</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Hamburger SV</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Bayer 04 Leverkusen</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Borussia Dortmund</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Schalke 04</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Hannover 96</Club_name>
+		</Team>
+		<Team>
+			<Club_name>VfL Wolfsburg</Club_name>
+		</Team>
+		<Team>
+			<Club_name>1. FC Köln</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Eintracht Frankfurt</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Hertha BSC Berlin</Club_name>
+		</Team>
+		<Team>
+			<Club_name>DSC Arminia Bielefeld</Club_name>
+		</Team>
+		<Team>
+			<Club_name>SV Werder Bremen</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Energie Cottbus</Club_name>
+		</Team>
+		<Team>
+			<Club_name>TSG 1899 Hoffenheim</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Borussia Mönchengladbach</Club_name>
+		</Team>
+		<Team>
+			<Club_name>VfB Stuttgart</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Karlsruher SC</Club_name>
+		</Team>
+		<Team>
+			<Club_name>VfL Bochum</Club_name>
+		</Team>
+		<Team>
+			<Club_name>SC Freiburg</Club_name>
+		</Team>
+		<Team>
+			<Club_name>1. FC Nürnberg</Club_name>
+		</Team>
+		<Team>
+			<Club_name>1. FSV Mainz 05</Club_name>
+		</Team>
+		<Team>
+			<Club_name>1. FC Kaiserslautern</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC St. Pauli</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Augsburg</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Fortuna Düsseldorf</Club_name>
+		</Team>
+		<Team>
+			<Club_name>SpVgg Greuther Fürth</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Eintracht Braunschweig</Club_name>
+		</Team>
+		<Team>
+			<Club_name>SC Paderborn 07</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Ingolstadt 04</Club_name>
+		</Team>
+		<Team>
+			<Club_name>SV Darmstadt 98</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Atalanta</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Siena</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Cagliari</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Lazio</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Catania</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Genoa</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Chievo Verona</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Reggio Calabria</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Fiorentina</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Juventus</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Milan</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Bologna</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Roma</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Napoli</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Sampdoria</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Inter</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Torino</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Lecce</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Udinese</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Palermo</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Bari</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Livorno</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Parma</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Cesena</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Brescia</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Novara</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Pescara</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Hellas Verona</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Sassuolo</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Empoli</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Frosinone</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Carpi</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Vitesse</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Groningen</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Roda JC Kerkrade</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Twente</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Willem II</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Ajax</Club_name>
+		</Team>
+		<Team>
+			<Club_name>N.E.C.</Club_name>
+		</Team>
+		<Team>
+			<Club_name>De Graafschap</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Utrecht</Club_name>
+		</Team>
+		<Team>
+			<Club_name>PSV</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Heracles Almelo</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Feyenoord</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Sparta Rotterdam</Club_name>
+		</Team>
+		<Team>
+			<Club_name>ADO Den Haag</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Volendam</Club_name>
+		</Team>
+		<Team>
+			<Club_name>SC Heerenveen</Club_name>
+		</Team>
+		<Team>
+			<Club_name>AZ</Club_name>
+		</Team>
+		<Team>
+			<Club_name>NAC Breda</Club_name>
+		</Team>
+		<Team>
+			<Club_name>RKC Waalwijk</Club_name>
+		</Team>
+		<Team>
+			<Club_name>VVV-Venlo</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Excelsior</Club_name>
+		</Team>
+		<Team>
+			<Club_name>PEC Zwolle</Club_name>
+		</Team>
+		<Team>
+			<Club_name>SC Cambuur</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Go Ahead Eagles</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Dordrecht</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Wisła Kraków</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Polonia Bytom</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Polonia Bytom</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Ruch Chorzów</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Legia Warszawa</Club_name>
+		</Team>
+		<Team>
+			<Club_name>P. Warszawa</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Śląsk Wrocław</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Lechia Gdańsk</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Widzew Łódź</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Odra Wodzisław</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Lech Poznań</Club_name>
+		</Team>
+		<Team>
+			<Club_name>GKS Bełchatów</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Arka Gdynia</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Jagiellonia Białystok</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Piast Gliwice</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Cracovia</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Korona Kielce</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Zagłębie Lubin</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Widzew Łódź</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Podbeskidzie Bielsko-Biała</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Pogoń Szczecin</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Zawisza Bydgoszcz</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Górnik Łęczna</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Termalica Bruk-Bet Nieciecza</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Porto</Club_name>
+		</Team>
+		<Team>
+			<Club_name>CF Os Belenenses</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Sporting CP</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Trofense</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Vitória Guimarães</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Vitória Setúbal</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Paços de Ferreira</Club_name>
+		</Team>
+		<Team>
+			<Club_name>SC Braga</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Amadora</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Académica de Coimbra</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Rio Ave FC</Club_name>
+		</Team>
+		<Team>
+			<Club_name>SL Benfica</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Leixões SC</Club_name>
+		</Team>
+		<Team>
+			<Club_name>CD Nacional</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Naval 1° de Maio</Club_name>
+		</Team>
+		<Team>
+			<Club_name>CS Marítimo</Club_name>
+		</Team>
+		<Team>
+			<Club_name>União de Leiria, SAD</Club_name>
+		</Team>
+		<Team>
+			<Club_name>S.C. Olhanense</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Portimonense</Club_name>
+		</Team>
+		<Team>
+			<Club_name>SC Beira Mar</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Feirense</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Gil Vicente FC</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Moreirense FC</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Estoril Praia</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Arouca</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Penafiel</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Boavista FC</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Uniao da Madeira</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Tondela</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Falkirk</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Rangers</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Heart of Midlothian</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Motherwell</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Kilmarnock</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Hibernian</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Aberdeen</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Inverness Caledonian Thistle</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Celtic</Club_name>
+		</Team>
+		<Team>
+			<Club_name>St. Mirren</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Hamilton Academical FC</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Dundee United</Club_name>
+		</Team>
+		<Team>
+			<Club_name>St. Johnstone FC</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Dunfermline Athletic</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Dundee FC</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Ross County FC</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Partick Thistle F.C.</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Valencia CF</Club_name>
+		</Team>
+		<Team>
+			<Club_name>RCD Mallorca</Club_name>
+		</Team>
+		<Team>
+			<Club_name>CA Osasuna</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Villarreal CF</Club_name>
+		</Team>
+		<Team>
+			<Club_name>RC Deportivo de La Coruña</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Real Madrid CF</Club_name>
+		</Team>
+		<Team>
+			<Club_name>CD Numancia</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Barcelona</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Racing Santander</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Sevilla FC</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Real Sporting de Gijón</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Getafe CF</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Real Betis Balompié</Club_name>
+		</Team>
+		<Team>
+			<Club_name>RC Recreativo</Club_name>
+		</Team>
+		<Team>
+			<Club_name>RCD Espanyol</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Real Valladolid</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Athletic Club de Bilbao</Club_name>
+		</Team>
+		<Team>
+			<Club_name>UD Almería</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Atlético Madrid</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Málaga CF</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Xerez Club Deportivo</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Real Zaragoza</Club_name>
+		</Team>
+		<Team>
+			<Club_name>CD Tenerife</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Hércules Club de Fútbol</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Levante UD</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Real Sociedad</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Granada CF</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Rayo Vallecano</Club_name>
+		</Team>
+		<Team>
+			<Club_name>RC Celta de Vigo</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Elche CF</Club_name>
+		</Team>
+		<Team>
+			<Club_name>SD Eibar</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Córdoba CF</Club_name>
+		</Team>
+		<Team>
+			<Club_name>UD Las Palmas</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Grasshopper Club Zürich</Club_name>
+		</Team>
+		<Team>
+			<Club_name>AC Bellinzona</Club_name>
+		</Team>
+		<Team>
+			<Club_name>BSC Young Boys</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Basel</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Aarau</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Sion</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Luzern</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Vaduz</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Neuchâtel Xamax</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Zürich</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC St. Gallen</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Thun</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Servette FC</Club_name>
+		</Team>
+		<Team>
+			<Club_name>FC Lausanne-Sports</Club_name>
+		</Team>
+		<Team>
+			<Club_name>Lugano</Club_name>
+		</Team>
+	</player>
+  </players>  

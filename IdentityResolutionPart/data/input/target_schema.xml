@@ -1,0 +1,16 @@
+<players>
+<player>
+	<Player_id>movie1</Player_id>
+	<First_Name>asdf</First_Name>
+	<Last_Name>asdf</Last_Name>
+	<Nationality>asdf</Nationality>
+	<Birthday>asdf</Birthday>
+	<Height>123</Height>
+	<Weight>123</Weight>
+	<Acceleration>one</Acceleration>
+	<Team>
+		<Club_name>Club</Club_name>
+		<League>League</League>
+	</Team>
+</player>
+</players>

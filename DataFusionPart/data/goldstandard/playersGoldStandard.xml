@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<players>
+
+
+<player>
+	<Player_id>Playerxlsx_11560</Player_id>
+	<First_Name>Vasco</First_Name>
+	<Last_Name>Costa</Last_Name>
+	<Birthday>1991-08-08</Birthday>
+        <Nationality>Portugal</Nationality>
+	<Height>184</Height>
+	<Weight>73</Weight>
+    	<Team>
+		<Club_name>AR São Martinho</Club_name>
+	</Team>
+</player>
+
+<player>
+	<Player_id>Playerxlsx_9709</Player_id>
+	<First_Name>Rafa</First_Name>
+	<Last_Name>Silva</Last_Name>
+	<Birthday>1993-05-17</Birthday>
+        <Nationality>Portugal</Nationality>
+    	<Height>171</Height>
+	<Weight>66</Weight>
+    	<Team>
+		<Club_name>SL Benfica</Club_name>
+	</Team>
+</player>
+
+
+<player>
+	<Player_id>Playerxlsx_4786</Player_id>
+	<First_Name>Gerso</First_Name>
+	<Last_Name>Fernandes</Last_Name>
+	<Birthday>1991-02-23</Birthday>
+        <Nationality>Guinea</Nationality>
+    	<Height>172</Height>
+    	<Weight>62</Weight>
+    	<Team>
+		<Club_name>Sporting Kansas City</Club_name>
+	</Team>
+</player>
+
+<player>
+	<Player_id>Playerxlsx_7541</Player_id>
+	<First_Name>Manuel</First_Name>
+	<Last_Name>Jose</Last_Name>
+	<Birthday>1981-02-04</Birthday>
+        <Nationality>Portugal</Nationality>
+    	<Height>174</Height>
+	<Weight>78</Weight>
+    	<Team>
+		<Club_name>Leixões S.C</Club_name>
+	</Team>
+</player>
+
+<player>
+	<Player_id>Playerxlsx_4923</Player_id>
+	<First_Name>Goncalo</First_Name>
+	<Last_Name>Silva</Last_Name>
+	<Birthday>1991-06-04</Birthday>
+        <Nationality>Portugal</Nationality>
+	<Height>186</Height>
+	<Weight>76</Weight>
+    	<Team>
+		<Club_name>Belenenses</Club_name>
+	</Team>
+</player>
+
+<player>
+	<Player_id>Playerxlsx_6427</Player_id>
+	<First_Name>Juan</First_Name>
+	<Last_Name>Carlos</Last_Name>
+	<Birthday>1990-03-30</Birthday>
+        <Nationality>Spain</Nationality>
+	<Height>179</Height>
+    	<Weight>68</Weight>
+    	<Team>
+		<Club_name>Málaga CF</Club_name>
+	</Team>
+</player>
+
+<player>
+	<Player_id>Playerxlsx_7692</Player_id>
+	<First_Name>Marco</First_Name>
+	<Last_Name>Fabian</Last_Name>
+	<Birthday>1989-07-21</Birthday>
+        <Nationality>Mexico</Nationality>
+    	<Height>171</Height>
+	<Weight>65</Weight>
+    	<Team>
+		<Club_name>Eintracht Frankfurt</Club_name>
+	</Team>
+</player>
+
+<player>
+	<Player_id>Playerxlsx_7692</Player_id>
+	<First_Name>Marco</First_Name>
+	<Last_Name>Fabian</Last_Name>
+	<Birthday>1989-07-21</Birthday>
+        <Nationality>Mexico</Nationality>
+    	<Height>171</Height>
+    	<Weight>65</Weight>
+    	<Team>
+		<Club_name>Eintracht Frankfurt</Club_name>
+	</Team>
+</player>
+
+<player>
+	<Player_id>Playerxlsx_9889</Player_id>
+	<First_Name>Ricardo</First_Name>
+	<Last_Name>Costa</Last_Name>
+	<Birthday>1981-05-16</Birthday>
+        <Nationality>Portugal</Nationality>
+	<Height>183</Height>
+	<Weight>80</Weight>
+    	<Team>
+		<Club_name>Tondela</Club_name>
+	</Team>
+</player>
+
+<player>
+	<Player_id>Playerxlsx_2544</Player_id>
+	<First_Name>Carlos</First_Name>
+	<Last_Name>Daniel</Last_Name>
+	<Birthday>1994-07-11</Birthday>
+        <Nationality>Portugal</Nationality>
+	<Height>178</Height>
+	<Weight>72</Weight>
+    	<Team>
+		<Club_name>União Leiria</Club_name>
+	</Team>
+</player>
+
+<player>
+	<Player_id>newplayerTeamData_1521</Player_id>
+	<First_Name>Bruno</First_Name>
+	<Last_Name>Fernandes</Last_Name>
+	<Birthday>1994-09-08</Birthday>
+        <Nationality>Portugal</Nationality>
+	<Height>179</Height>
+	<Weight>80</Weight>
+    	<Team>
+		<Club_name>Sporting CP</Club_name>
+	</Team>
+</player>
+
+<player>
+	<Player_id>newplayerTeamData_1070</Player_id>
+	<First_Name>Thiago</First_Name>
+	<Last_Name>Silva</Last_Name>
+	<Birthday>1984-09-22</Birthday>
+        <Nationality>Brazil</Nationality>
+	<Height>183</Height>
+	<Weight>79</Weight>
+    	<Team>
+		<Club_name>Paris Saint-Germain F.C.</Club_name>
+	</Team>
+</player>
+
+<player>
+	<Player_id>newplayerTeamData_1077</Player_id>
+	<First_Name>Gabriel</First_Name>
+	<Last_Name>Jesus</Last_Name>
+	<Birthday>1997-04-03</Birthday>
+        <Nationality>Brazil</Nationality>
+       	<Height>175</Height>
+	<Weight>83</Weight>
+    	<Team>
+		<Club_name>Manchester City F.C.</Club_name>
+	</Team>
+</player>
+
+<player>
+	<Player_id>newplayerTeamData_1509</Player_id>
+	<First_Name>Manuel</First_Name>
+	<Last_Name>Fernandes</Last_Name>
+	<Birthday>1986-02-05</Birthday>
+        <Nationality>Portugal</Nationality>
+	<Height>175</Height>
+	<Weight>69</Weight>
+    	<Team>
+		<Club_name>FC Lokomotiv Moskow</Club_name>
+	</Team>
+</player>
+
+<player>
+	<Player_id>newplayerTeamData_1512</Player_id>
+	<First_Name>Christiano</First_Name>
+	<Last_Name>Ronaldo</Last_Name>
+	<Birthday>1985-02-05</Birthday>
+        <Nationality>Portugal</Nationality>
+	<Height>187</Height>
+	<Weight>84</Weight>
+    	<Team>
+		<Club_name>Juventus</Club_name>
+	</Team>
+</player>
+
+<player>
+	<Player_id>newplayerTeamData_1346</Player_id>
+	<First_Name>Lee</First_Name>
+	<Last_Name>Young</Last_Name>
+	<Birthday>1986-12-24</Birthday>
+        <Nationality>South Korea</Nationality>
+    	<Height>180</Height>
+	<Weight>74</Weight>
+    	<Team>
+		<Club_name>Jeonbuk</Club_name>
+	</Team>
+</player>
+
+<player>
+	<Player_id>newplayerTeamData_1507</Player_id>
+	<First_Name>Bruno</First_Name>
+	<Last_Name>Alves</Last_Name>
+	<Birthday>1981-11-27</Birthday>
+        <Nationality>Portugal</Nationality>
+	<Height>189</Height>
+	<Weight>83</Weight>
+    	<Team>
+		<Club_name>Parma</Club_name>
+	</Team>
+</player>
+
+<player>
+	<Player_id>newplayerTeamData_1516</Player_id>
+	<First_Name>Bernardo</First_Name>
+	<Last_Name>Silva</Last_Name>
+	<Birthday>1988-02-08</Birthday>
+	<Nationality>Portugal</Nationality>
+	<Height>186</Height>
+	<Weight>86</Weight>
+	<Team>
+		<Club_name>Beijing Guoan</Club_name>
+	</Team>
+</player>
+
+<player>
+	<Player_id>newplayerTeamData_1076</Player_id>
+	<First_Name>Renato</First_Name>
+	<Last_Name>Augusto</Last_Name>
+	<Birthday>1988-02-08</Birthday>
+	<Nationality>Brazil</Nationality>
+	<Height>186</Height>
+	<Weight>86</Weight>
+	<Team>
+		<Club_name>Beijing Guoan</Club_name>
+	</Team>
+</player>
+
+<player>
+	<Player_id>PlayerComplete_4694</Player_id>
+	<First_Name>Rafael</First_Name>
+	<Last_Name>Defendi</Last_Name>
+	<Birthday>1983-12-22</Birthday>
+	<Nationality>Brazil</Nationality>
+	<Height>191</Height>
+	<Weight>88</Weight>
+	<Team>
+		<Club_name>Famalicão</Club_name>
+	</Team>
+</player>
+
+<player>
+	<Player_id>PlayerComplete_4705</Player_id>
+	<First_Name>James</First_Name>
+	<Last_Name>Henry</Last_Name>
+	<Birthday>1989-06-10</Birthday>
+	<Nationality>England</Nationality>
+	<Height>182</Height>
+	<Weight>77</Weight>
+	<Team>
+		<Club_name>Oxford United</Club_name>
+	</Team>
+</player>
+
+<player>
+	<Player_id>PlayerComplete_10449</Player_id>
+	<First_Name>Jay-Roy</First_Name>
+	<Last_Name>Grot</Last_Name>
+	<Birthday>1998-03-13</Birthday>
+	<Nationality>Netherlands</Nationality>
+	<Height>193</Height>
+	<Weight>98</Weight>
+	<Team>
+		<Club_name>VVV-Venlo</Club_name>
+	</Team>
+</player>
+
+<player>
+	<Player_id>PlayerComplete_10460</Player_id>
+	<First_Name>Konstantin</First_Name>
+	<Last_Name>Kerschbaumer</Last_Name>
+	<Birthday>1992-07-01</Birthday>
+	<Nationality>Austria</Nationality>
+	<Height>179</Height>
+	<Weight>77</Weight>
+	<Team>
+		<Club_name>Ingolstadt</Club_name>
+	</Team>
+</player>
+
+<player>
+	<Player_id>PlayerComplete_7049</Player_id>
+	<First_Name>Pedro</First_Name>
+	<Last_Name>Trigueira</Last_Name>
+	<Birthday>1988-01-04</Birthday>
+	<Nationality>Portugal</Nationality>
+	<Height>192</Height>
+	<Weight>94</Weight>
+	<Team>
+		<Club_name>Moreirense F.C.</Club_name>
+	</Team>
+</player>
+
+<player>
+	<Player_id>PlayerComplete_11960</Player_id>
+	<First_Name>Luís</First_Name>
+	<Last_Name>Ribero</Last_Name>
+	<Birthday>1992-04-19</Birthday>
+	<Nationality>Portugal</Nationality>
+	<Height>187</Height>
+	<Weight>81</Weight>
+	<Team>
+		<Club_name>Leixões S.C. </Club_name>
+	</Team>
+</player>
+</players>
